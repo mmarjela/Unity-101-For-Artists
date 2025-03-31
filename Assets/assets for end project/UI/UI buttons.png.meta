@@ -100,13 +100,13 @@ TextureImporter:
       name: UI buttons_0
       rect:
         serializedVersion: 2
-        x: 900
-        y: 8327
-        width: 3256
-        height: 2045
+        x: 1683
+        y: 8337
+        width: 2382
+        height: 1983
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -124,11 +124,11 @@ TextureImporter:
         serializedVersion: 2
         x: 1673
         y: 6506
-        width: 2208
+        width: 2381
         height: 1749
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -144,13 +144,13 @@ TextureImporter:
       name: UI buttons_2
       rect:
         serializedVersion: 2
-        x: 4797
-        y: 8052
-        width: 2777
-        height: 2086
+        x: 4807
+        y: 7960
+        width: 2370
+        height: 2167
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -166,13 +166,13 @@ TextureImporter:
       name: UI buttons_3
       rect:
         serializedVersion: 2
-        x: 8266
-        y: 8317
-        width: 2573
+        x: 8236
+        y: 8297
+        width: 2624
         height: 1709
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -188,13 +188,13 @@ TextureImporter:
       name: UI buttons_4
       rect:
         serializedVersion: 2
-        x: 8469
-        y: 6211
-        width: 2055
-        height: 2055
+        x: 8174
+        y: 6648
+        width: 2604
+        height: 1699
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -210,13 +210,13 @@ TextureImporter:
       name: UI buttons_5
       rect:
         serializedVersion: 2
-        x: 8591
-        y: 1948
+        x: 8581
+        y: 1958
         width: 1709
         height: 1821
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
